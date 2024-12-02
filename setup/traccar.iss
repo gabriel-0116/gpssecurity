@@ -1,5 +1,5 @@
 [Setup]
-AppName=Traccar
+AppName=Gps Security
 AppVersion=6.5
 DefaultDirName={pf}\Traccar
 OutputBaseFilename=traccar-setup
