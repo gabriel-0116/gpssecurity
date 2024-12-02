@@ -1,5 +1,5 @@
 [submodule "web-gpssecurity"]
-	path = web-gpssecurity
+	path = traccar
 	url = https://github.com/gabriel-0116/web-gpssecurity
 	branch = master
 	ignore = all
