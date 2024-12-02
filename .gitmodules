@@ -1,8 +1,6 @@
 [submodule "traccar-web"]
 	path = traccar-web
-	url = ../traccar-web.git
+	url = https://github.com/gabriel-0116/web-gpssecurity
 	branch = master
 	ignore = all
-[submodule "tools/traccar-web"]
-	path = tools/traccar-web
-	url = https://github.com/gabriel-0116/web-gpssecurity
+
