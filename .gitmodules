@@ -2,3 +2,4 @@
 [submodule "web-gpssecurity"]
 	path = web-gpssecurity
 	url = https://github.com/gabriel-0116/web-gpssecurity.git
+	branch = master
