@@ -3,3 +3,6 @@
 	url = ../traccar-web.git
 	branch = master
 	ignore = all
+[submodule "tools/traccar-web"]
+	path = tools/traccar-web
+	url = https://github.com/gabriel-0116/web-gpssecurity
